@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0583CC&vCenter=true&lines=Hello%2C+I+am+Jordan+The+Web+Designer...;I+am+also+a+Web+Developer...;Visit+jordanthewebdesigner.com+to+learn+more...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0583CC&vCenter=true&lines=Hello%2C+I+am+%22Jordanthewebdesigner%22...;I+am+a+Web+Designer%2C+Web+Developer%2C+and+more...;Visit+jordanthewebdesigner.com+to+learn+more...)](https://git.io/typing-svg)
